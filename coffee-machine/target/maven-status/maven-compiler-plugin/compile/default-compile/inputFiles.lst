@@ -1,0 +1,15 @@
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/MainCoffee.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/EspressoCoffeeMachine.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/component/BeanTank.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/MainEspresso.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/CoffeeMachine.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/component/ElectricalResistance.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/component/WaterTank.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/exception/CoffeeTypeCupDifferentOfCoffeeTypeTankException.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/exception/CannotMakeCremaWithSimpleCoffeeMachine.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/component/SteamPipe.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/component/Tank.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/exception/LackOfWaterInTankException.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/component/CoffeeGrinder.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/exception/MachineNotPluggedException.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/main/java/fr/imt/coffee/machine/component/WaterPump.java

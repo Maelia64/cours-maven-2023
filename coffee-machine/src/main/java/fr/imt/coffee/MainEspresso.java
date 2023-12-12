@@ -1,6 +1,5 @@
 package fr.imt.coffee;
 
-import fr.imt.coffee.machine.CoffeeMachine;
 import fr.imt.coffee.machine.EspressoCoffeeMachine;
 import fr.imt.coffee.machine.exception.CoffeeTypeCupDifferentOfCoffeeTypeTankException;
 import fr.imt.coffee.machine.exception.LackOfWaterInTankException;
@@ -35,7 +34,7 @@ public class MainEspresso {
 
         logger.info(coffeeMachine.toString());
 
-        Cup cup = null;
+        Container cup = null;
         Container coffeeCup = null;
 
         try {

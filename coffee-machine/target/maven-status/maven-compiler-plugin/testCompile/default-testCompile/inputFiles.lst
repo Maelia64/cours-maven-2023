@@ -1,0 +1,5 @@
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/test/java/fr/imt/coffee/machine/CoffeeMachineCucumberFunctionalTest.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/test/java/fr/imt/coffee/machine/CoffeeMachineUnitTest.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/test/java/fr/imt/coffee/machine/cucumber/steps/CucumberStepsExpressoCoffeeMachineTest.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/test/java/fr/imt/coffee/machine/cucumber/steps/CucumberStepsCoffeeMachineMakeACoffeeTest.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/Coffee-machine/src/test/java/fr/imt/coffee/machine/component/ElectricalResistanceTest.java

@@ -1,0 +1,11 @@
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/coffee/type/CoffeeType.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/container/Container.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/exception/ExceptionContainerCreation.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/Main.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/container/Mug.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/container/CoffeeContainer.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/container/Cup.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/exception/CupNotEmptyException.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/container/CoffeeCup.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/FabricCupboardContainer.java
+/Users/maeliaduhart/Documents/Ales/Cours/Qualité logicielle/Maven Cucumber/cours-maven-2023/cours-maven-2023/coffee-storage/src/main/java/fr/imt/coffee/storage/cupboard/container/CoffeeMug.java
