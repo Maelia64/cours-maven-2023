@@ -75,8 +75,8 @@ public class CoffeeMachine {
      * @param container Contenant pour faire couler le café
      * @param coffeeType Type de café dans l'énumération CoffeeType.java
      * @return Contenant non vide avec son type de café
-     * @throws LackOfWaterInTankException Exception à lever lorsque que l'on manque d'eau dans le réservoir, message "You must plug your coffee machine to an electrical plug."
-     * @throws MachineNotPluggedException Exception levée lorsque que la machine n'est pas branchée, message : "You must add more water in the water tank."
+     * @throws LackOfWaterInTankException Exception à lever lorsque que l'on manque d'eau dans le réservoir, message "You must add more water in the water tank."
+     * @throws MachineNotPluggedException Exception levée lorsque que la machine n'est pas branchée, message : "You must plug your coffee machine to an electrical plug."
      * @throws CupNotEmptyException Exception levée lorsque le contenant donné en paramètre n'est pas vide, message : "The container given is not empty."
      * @throws InterruptedException Exception levée lorsqu'un problème survient dans les Threads lors du sleep
      * @throws CoffeeTypeCupDifferentOfCoffeeTypeTankException Exception levée lorsque le café souhaité est différent de celui chargé dans le réservoir de la cafetière

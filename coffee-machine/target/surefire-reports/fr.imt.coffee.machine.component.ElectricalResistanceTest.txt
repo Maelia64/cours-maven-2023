@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: fr.imt.coffee.machine.component.ElectricalResistanceTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 10.913 s <<< FAILURE! - in fr.imt.coffee.machine.component.ElectricalResistanceTest
-fr.imt.coffee.machine.component.ElectricalResistanceTest.testWaterHeatingNominalCaseWithHamcrest  Time elapsed: 5.457 s  <<< FAILURE!
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 10.911 s <<< FAILURE! - in fr.imt.coffee.machine.component.ElectricalResistanceTest
+fr.imt.coffee.machine.component.ElectricalResistanceTest.testWaterHeatingNominalCaseWithHamcrest  Time elapsed: 5.462 s  <<< FAILURE!
 java.lang.AssertionError: 
 
 Expected: is <5439.0>
@@ -80,7 +80,7 @@ Expected: is <5439.0>
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
 
-fr.imt.coffee.machine.component.ElectricalResistanceTest.testWaterHeatingNominalCaseWithJUnit  Time elapsed: 5.451 s  <<< FAILURE!
+fr.imt.coffee.machine.component.ElectricalResistanceTest.testWaterHeatingNominalCaseWithJUnit  Time elapsed: 5.443 s  <<< FAILURE!
 org.opentest4j.AssertionFailedError: expected: <4389.0> but was: <5439.0>
 	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
 	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
